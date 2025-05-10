@@ -8,6 +8,7 @@ psd = PSDImage.open('projet_credo.psd')
 composite = psd.composite()
 
 nombre_exemplaires = input ("Entrer le nombre d'exemplaires à créer : ")
+
 # verfier si l'entrée est un nombre entier et positif
 try:
     nombre_exemplaires = int(nombre_exemplaires)
