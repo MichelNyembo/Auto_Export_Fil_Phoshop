@@ -1,6 +1,7 @@
 from psd_tools import PSDImage
 from PIL import Image
 
+
 # Charger le fichier PSD
 psd = PSDImage.open('projet_credo.psd')
 
