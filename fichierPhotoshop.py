@@ -1,3 +1,15 @@
+
+#version 1.0
+# Auteur : Michel Nyembo
+# Date : 2023-10-05
+
+
+# Ce script permet de créer plusieurs exemplaires d'une image à partir d'un fichier PSD
+# en utilisant la bibliothèque psd-tools et PIL (Pillow).
+# Assurez-vous d'avoir installé les bibliothèques requises :
+# pip install psd-tools Pillow
+
+
 from psd_tools import PSDImage
 from PIL import Image
 

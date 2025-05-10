@@ -1,6 +1,7 @@
 # Auto_Export_Fil_Phoshop
 Ce projet Python permet de générer automatiquement plusieurs exemplaires d'une image à partir d'un modèle PSD , en utilisant les bibliothèques psd_tools et Pillow. Il est conçu pour faciliter la production rapide de fichiers JPEG à partir d'un fichier PSD.
 
+versio: 1.0
 Auteur : NYEMBO KAMWANGA Michel
 
 Fonctionnalités :
